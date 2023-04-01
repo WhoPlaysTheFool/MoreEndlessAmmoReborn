@@ -1,0 +1,9 @@
+author = TheFool
+version = 1.0.0.0
+displayName = More Endless Ammo Reborn
+homepage = 
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.sln, *.csproj, *.user, obj\*, bin\*, .vs\*, PSDs\*
+includePDB = true
