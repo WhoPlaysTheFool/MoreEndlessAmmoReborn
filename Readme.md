@@ -7,7 +7,7 @@ Originally located at https://github.com/HumanGamer/MoreEndlessAmmo
 * Current "maintainer" - TheFool
 
 # Prerequisites
-* Visual Studio 2017
+* .NET 6 SDK
 * TModLoader 1.4.4 preview
 
 # Build
