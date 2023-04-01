@@ -1,5 +1,6 @@
 # More Endless Ammo Reborn
 A mod for Terraria that adds Endless Ammo Pouches/Quivers for every ammo type.
+Originally located at https://github.com/HumanGamer/MoreEndlessAmmo
 
 # Contributors
 * Original Creator - [HumanGamer](https://github.com/HumanGamer)
