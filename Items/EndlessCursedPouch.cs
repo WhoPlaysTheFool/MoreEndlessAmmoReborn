@@ -34,8 +34,9 @@ namespace MoreEndlessAmmoReborn.Items
 		public override void AddRecipes()
 		{
 			Recipe recipe = CreateRecipe();
-			recipe.AddIngredient(ItemID.CursedBullet, 3996);
-			recipe.AddTile(TileID.CrystalBall);
+			recipe.AddIngredient(ItemID.CursedFlame, 20);
+			recipe.AddIngredient(ItemID.EndlessMusketPouch);
+			recipe.AddTile(TileID.WorkBenches);
 			recipe.Register();
 		}
 	}
