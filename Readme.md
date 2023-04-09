@@ -5,6 +5,7 @@ Originally located at https://github.com/HumanGamer/MoreEndlessAmmo
 # Contributors
 * Original Creator - [HumanGamer](https://github.com/HumanGamer)
 * Current "maintainer" - TheFool
+* Playtester - [TotalBlazing](https://github.com/Totalblazing)
 
 # Prerequisites
 * .NET 6 SDK
