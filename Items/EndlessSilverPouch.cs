@@ -19,7 +19,7 @@ namespace MoreEndlessAmmoReborn.Items
 		public override void SetDefaults()
 		{
 			Item.shootSpeed = 4.5f;
-			Item.shoot = 14;
+			Item.shoot = 981;
 			Item.damage = 9;
 			Item.width = 26;
 			Item.height = 34;
