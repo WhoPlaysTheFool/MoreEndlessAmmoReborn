@@ -9,7 +9,7 @@ Originally located at https://github.com/HumanGamer/MoreEndlessAmmo
 
 # Prerequisites
 * .NET 6 SDK
-* TModLoader 1.4.4 preview
+* TModLoader 1.4.4
 
 # Build
 1. Clone this repository into your TModLoader Mod Sources folder (eg. ``C:\Users\<your username>\Documents\My Games\Terraria\tModLoader\ModSources``)
