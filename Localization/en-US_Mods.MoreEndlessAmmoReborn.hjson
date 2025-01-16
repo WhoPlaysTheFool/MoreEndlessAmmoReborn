@@ -1,0 +1,96 @@
+Items: {
+	EndlessVenomQuiver: {
+		Tooltip: THWIPTHWIPTHWIP
+		DisplayName: Endless Venom Quiver
+	}
+
+	EndlessVenomPouch: {
+		Tooltip: BRRT
+		DisplayName: Endless Venom Pouch
+	}
+
+	EndlessSilverPouch: {
+		Tooltip: BRRT
+		DisplayName: Endless Silver Pouch
+	}
+
+	EndlessPartyPouch: {
+		Tooltip: BRRT
+		DisplayName: Endless Party Pouch
+	}
+
+	EndlessNanoPouch: {
+		Tooltip: BRRT
+		DisplayName: Endless Nano Pouch
+	}
+
+	EndlessMeteorPouch: {
+		Tooltip: BRRT
+		DisplayName: Endless Meteor Pouch
+	}
+
+	EndlessLuminiteQuiver: {
+		Tooltip: THWIPTHWIPTHWIP
+		DisplayName: Endless Luminite Quiver
+	}
+
+	EndlessLuminitePouch: {
+		Tooltip: BRRT
+		DisplayName: Endless Luminite Pouch
+	}
+
+	EndlessIchorPouch: {
+		Tooltip: BRRT
+		DisplayName: Endless Ichor Pouch
+	}
+
+	EndlessHighVelocityPouch: {
+		Tooltip: BRRT
+		DisplayName: Endless High Velocity Pouch
+	}
+
+	EndlessGoldenPouch: {
+		Tooltip: BRRT
+		DisplayName: Endless Golden Pouch
+	}
+
+	EndlessGelGlob: {
+		Tooltip: FWOOSH
+		DisplayName: Endless Gel Glob
+	}
+
+	EndlessFlamingQuiver: {
+		Tooltip: THWIPTHWIPTHWIP
+		DisplayName: Endless Flaming Quiver
+	}
+
+	EndlessExplodingPouch: {
+		Tooltip: BRRT
+		DisplayName: Endless Exploding Pouch
+	}
+
+	EndlessCursedPouch: {
+		Tooltip: BRRT
+		DisplayName: Endless Cursed Pouch
+	}
+
+	EndlessCrystalPouch: {
+		Tooltip: BRRT
+		DisplayName: Endless Crystal Pouch
+	}
+
+	EndlessChlorophytePouch: {
+		Tooltip: BRRT
+		DisplayName: Endless Chlorophyte Pouch
+	}
+
+	BUNNYBUNNYBUNNY: {
+		DisplayName: Magician's Infinite Explosive Bunny Hat
+		Tooltip: "[c/F5A9B8:I am very bervose if you hadn't noticed - Evelyn]"
+	}
+
+	EndlessTungstenPouch: {
+		DisplayName: Endless Tungsten Pouch
+		Tooltip: BRRT
+	}
+}
