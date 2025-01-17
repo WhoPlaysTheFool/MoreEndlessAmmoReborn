@@ -20,7 +20,7 @@ namespace MoreEndlessAmmoReborn.Items
 		{
 			Item.shootSpeed = 3f;
 			Item.shoot = 36;
-			Item.damage = 9;
+			Item.damage = 8;
 			Item.width = 26;
 			Item.height = 34;
 			Item.ammo = AmmoID.Bullet;
